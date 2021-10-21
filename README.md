@@ -32,3 +32,12 @@ query {
     }
 }
 ```
+
+### Tools
+* #### Programming Language: Java 17
+* #### Spring: 
+        * Spring Boot DevTools
+        * Lombok
+        * Spring Web
+        * Spring Data JPA
+        * H2 Database
