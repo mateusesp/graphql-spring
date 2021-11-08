@@ -3,6 +3,7 @@
 ### Steps
 
 * #### Build project  
+      mvn clean package -DskipTests
 ### Query example 
 ```
 query { 
